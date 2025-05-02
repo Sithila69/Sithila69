@@ -70,33 +70,33 @@ Markdown     10 mins         ░░░░░░░░░░░░░░░░░
 ## 🌎 Find me around the web
 
 <div align="center">
-  <a href="https://twitter.com/${YOUR_TWITTER_HANDLE}">
+  <a href="https://x.com/KMSBandara42870">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/${YOUR_LINKEDIN_USERNAME}">
+  <a href="https://www.linkedin.com/in/sithila-bandara-963063225/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://${YOUR_PERSONAL_WEBSITE}">
+  <a href="https://sithila69.github.io/Portfolio-v01/">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
 
-## 🎧 Now Playing
+<!--## 🎧 Now Playing-->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
-</div>
+</div>-->
 
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/${YOUR_USERNAME}/${YOUR_USERNAME}/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Sithila69/Sithila69/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ## 📫 How to reach me
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kms123sithila@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -104,7 +104,7 @@ Markdown     10 mins         ░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=${YOUR_USERNAME}&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sithila69&style=flat-square&color=blue" alt="Profile views" />
   
   <h4>Thanks for visiting! Here's a joke to brighten your day:</h4>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
