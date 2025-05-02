@@ -36,18 +36,6 @@ I'm a passionate developer who loves building things that live on the internet. 
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   10 hrs 42 mins  █████████████░░░░░░░░░░   52.28% 
-React        5 hrs 50 mins   ███████░░░░░░░░░░░░░░░░   28.51% 
-CSS          2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░   11.92% 
-Python       1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░   6.43% 
-Markdown     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░   0.86%
-```
-<!--END_SECTION:waka-->
-
 <!--## 🎮 Let's Play a Game
 
 <div align="center">
