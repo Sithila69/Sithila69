@@ -48,7 +48,7 @@ Markdown     10 mins         ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 🎮 Let's Play a Game
+<!--## 🎮 Let's Play a Game
 
 <div align="center">
   <a href="https://github.com/Sithila69">
@@ -66,7 +66,7 @@ Markdown     10 mins         ░░░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/Ties-0-yellow" />
   <img src="https://img.shields.io/badge/Losses-0-red" />
 </div>
-
+-->
 ## 🌎 Find me around the web
 
 <div align="center">
@@ -85,14 +85,14 @@ Markdown     10 mins         ░░░░░░░░░░░░░░░░░
 
 <!--<div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
-</div>-->
+</div>
 
 ## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://github.com/Sithila69/Sithila69/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
+-->
 ## 📫 How to reach me
 
 <div align="center">
