@@ -31,8 +31,8 @@ I'm a passionate developer who loves building things that live on the internet. 
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
@@ -51,7 +51,7 @@ Markdown     10 mins         ░░░░░░░░░░░░░░░░░
 ## 🎮 Let's Play a Game
 
 <div align="center">
-  <a href="https://github.com/${YOUR_USERNAME}">
+  <a href="https://github.com/Sithila69">
     <img src="https://img.shields.io/badge/Play%20Rock%20Paper%20Scissors-gray?style=for-the-badge" />
   </a>
 </div>
