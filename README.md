@@ -15,7 +15,6 @@ I'm a passionate developer who loves building things that live on the internet. 
 - 🔭 I'm currently working on **awesome projects**
 - 🌱 I'm currently learning **new technologies**
 - 💬 Ask me about **anything tech related**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 
 ## 📈 GitHub Stats
 
